@@ -16,7 +16,7 @@ A sleek and responsive real estate website built using **React.js**, **Tailwind 
 ## 🖼️ Screenshots
 
 ### 🖥️ Desktop View
-![Desktop View](.screenshots\home_page.png)
+![Desktop View](.screenshots/home_page.png)
 
 ### 📱 Mobile Menu
 ![Mobile Menu](./screenshots/mobile_view.png)
